@@ -7,3 +7,4 @@ def templates():
         ToolbuttonWithDockWidgetPluginTemplate(),
         ProcessingProviderPluginTemplate()
     ]
+
